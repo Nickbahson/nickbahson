@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Nicholas Njogu!
 
+![Twitter Follow](https://img.shields.io/twitter/follow/nickbahson2?label=Twitter&style=social)
 <!--
 **Nickbahson/nickbahson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
