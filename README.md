@@ -1,6 +1,11 @@
 ### Hi there 👋, I am Nicholas Njogu!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nickbahson2?label=Twitter&style=social)
+
+---
+Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Php logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"/>
 <!--
 **Nickbahson/nickbahson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
