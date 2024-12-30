@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Nicholas Njogu!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/nickbahson2?label=Twitter&style=social)
-
 ---
 🧰 Toolbox
 
